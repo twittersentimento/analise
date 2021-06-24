@@ -1,0 +1,75 @@
+{
+    "data": [
+        {
+            "created_at": "2021-03-26T22:43:12.000Z",
+            "conversation_id": "1375579116225716224",
+            "text": "Pesquisadores da UFPR avaliam efeitos positivos do ‘lockdown’ em Curitiba https://t.co/dVVLOrrepK",
+            "public_metrics": {
+                "retweet_count": 10,
+                "reply_count": 1,
+                "like_count": 37,
+                "quote_count": 0
+            },
+            "author_id": "23978439",
+            "id": "1375579116225716224"
+        },
+        {
+            "created_at": "2020-06-09T17:51:49.000Z",
+            "conversation_id": "1270413305354518528",
+            "text": "Quem sabe a série Chefs na Quarentena versão RU consiga revelar este segredo, hãn 😎💪🔍 https://t.co/QGqa8uXX3x",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 2,
+                "like_count": 43,
+                "quote_count": 0
+            },
+            "author_id": "23978439",
+            "id": "1270413305354518528"
+        },
+        {
+            "created_at": "2020-05-28T14:22:54.000Z",
+            "conversation_id": "1265841073785634816",
+            "text": "@ufmg @assuncao_g @Fump_UFMG Chefs na quarentena versão RU 💃",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 12,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "54589069",
+            "author_id": "23978439",
+            "id": "1266012072665645066"
+        },
+        {
+            "created_at": "2020-05-04T19:12:18.000Z",
+            "conversation_id": "1257387595543326721",
+            "text": "Arte contribui para humanização e saúde mental, segundo pesquisadoras; UFPR oferece acesso online na quarentena https://t.co/QiZrJ5QAtR",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 12,
+                "quote_count": 0
+            },
+            "author_id": "23978439",
+            "id": "1257387595543326721"
+        },
+        {
+            "created_at": "2020-04-08T20:46:33.000Z",
+            "conversation_id": "1247989227851259907",
+            "text": "De quarentena em casa? Videoteca da UFPR permite conhecer intelectuais negros e temáticas raciais https://t.co/7jLaJ526sz",
+            "public_metrics": {
+                "retweet_count": 12,
+                "reply_count": 0,
+                "like_count": 38,
+                "quote_count": 1
+            },
+            "author_id": "23978439",
+            "id": "1247989227851259907"
+        }
+    ],
+    "meta": {
+        "newest_id": "1375579116225716224",
+        "oldest_id": "1247989227851259907",
+        "result_count": 5
+    }
+}
